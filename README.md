@@ -10,12 +10,7 @@
 
 |        이름        |                                                                           GitHub                                                                            |                                                              역할                                                              |
 | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|     김남경(FE)     |        <img alt="김남경" src="https://avatars.githubusercontent.com/u/67787776?v=4" height="100" width="100"><br>[@ann](https://github.com/annkim7)         |                                                 Question,  Anwer,  Commnet CRUD                                                  |
 |     임대훈(FE)     | <img alt="임대훈" src="https://avatars.githubusercontent.com/u/115605127?v=4" height="100" width="100"><br>[@lim-dae-hoon](https://github.com/Lim-Dae-Hoon) | 헤더 & 푸터 및 레프트 사이드바 컴포넌트, 로그인 및 회원가입, 마이 페이지, 구글 oauth2.0 로그인 구현 |
-|     임지현(FE)     |  <img alt="임지현" src="https://avatars.githubusercontent.com/u/109772711?v=4" height="100" width="100"><br>[@journey0321](https://github.com/journey0321)  |                              홈페이지, 질문 메뉴 화면(& 필터), 태그 및 프로필 수정 컴포넌트                              |
-|     강지후(BE)     |  <img alt="강지후" src="https://avatars.githubusercontent.com/u/75588742?v=4" height="100" width="100"><br>[@Jihoo Kang](https://github.com/JihooKang-KOR)  |                             초기 디렉토리 구조 세팅, 댓글 및 답변 담당                              |
-| 신승현(BE)(부팀장) |      <img alt="신승현" src="https://avatars.githubusercontent.com/u/50867306?v=4" height="100" width="100"><br>[@WhiteCB](https://github.com/WhiteCB)       |                                                    aws 기초 세팅, 질문 파트                                                    |
-|  주대경(BE)(팀장)  |     <img alt="주대경" src="https://avatars.githubusercontent.com/u/79781818?v=4" height="100" width="100"><br>[@FaberJoo](https://github.com/FaberJoo)      |                                                           회원 및 인증,  git 및 코딩 컨벤션, 백엔드 구조 설계                                                           |
 
 <br/>
 
